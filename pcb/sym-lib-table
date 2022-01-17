@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Presence Sensor")(type "KiCad")(uri "${KIPRJMOD}/library/Presence Sensor.kicad_sym")(options "")(descr ""))
+)
